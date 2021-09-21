@@ -1,5 +1,5 @@
-const apiURL = 'https://super-trivia-api.herokuapp.com/trivia'
-const apiKey = 'fVvuHQrocVXC9G9z06xa3ec9rdXYGZyJZRDXJ9k3arjVxy2zuUXX6c34Z2dgnlx2'
+const apiURL = 'https://frontend-api-experis-academy.herokuapp.com/trivia'
+const apiKey = 'E4j2vtTmDfPR8BqptYOS4h2loXZl87fqeafsQMu6Nhz9WUp4LWlisPwMYgnLVT7k'
 
 export const UserAPI = {
     // Getting user information by username
